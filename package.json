@@ -22,7 +22,7 @@
     "twilio-video": "^2.0.0-beta13"
   },
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   },
   "repository": {
     "type": "git",
